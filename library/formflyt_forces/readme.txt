@@ -1,1 +1,1 @@
-This folder contains the source code for modelling orbit perturbations and other forces (as 1x3 acceleration vectors) to be incorporated in each step of the numerical integrator.
+此文件夹包含用于模拟轨道扰动和其他力（作为 1x3 加速度矢量）的源代码，这些力将被合并到数值积分器的每个步骤中。
